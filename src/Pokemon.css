@@ -1,0 +1,14 @@
+.Pokemon {
+  border: 1px solid black;
+  width: 75px;
+  height: px;
+}
+
+.Pokemon img {
+  width: 75px;
+}
+
+.Pokemon h1 {
+  color: blue;
+  font-size: small;
+}
